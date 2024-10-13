@@ -6,12 +6,12 @@ import Skills from "../Components/Skills";
 import Education from "../Components/Education";
 import Academics from "../Components/Academics";
 import Projects from "../Components/Projects"; 
-import pic from "../Components/atharva.jpg";
+import pic from "../Components/aman1.png";
 
 const profileData = {
-  name: "Atharva Prabhakar Patil",
+  name: "Aman shyambahadur yadav",
   bio: "I am a Front-End Developer skilled in HTML, CSS, JavaScript, and React. I enjoy coding and creating user-friendly interfaces.",
-  hobbies: ["Jogging", "Cycling", "Playing Football"],
+  hobbies: ["swimming", "Cycling", "Playing cricket"],
   skills: [
     "Front-End Development (HTML, CSS, JavaScript)",
     "Experience in React.js",
@@ -19,7 +19,7 @@ const profileData = {
   ],
   education: [
     {
-      school: "Smt. Sulochanadevi Singhania School",
+      school: "holy angels school",
       year: "2021"
     },
     {
@@ -28,7 +28,7 @@ const profileData = {
     }
   ],
   academics: {
-    tenth: "97%",
+    tenth: "87%",
     twelfth: "86%",
     jee: "94 Percentile"
   },
