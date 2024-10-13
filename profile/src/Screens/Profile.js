@@ -9,9 +9,9 @@ import Projects from "../Components/Projects";
 import pic from "../Components/atharva.jpg";
 
 const profileData = {
-  name: "Atharva Prabhakar Patil",
+  name: "Aman shyambahadur yadav",
   bio: "I am a Front-End Developer skilled in HTML, CSS, JavaScript, and React. I enjoy coding and creating user-friendly interfaces.",
-  hobbies: ["Jogging", "Cycling", "Playing Football"],
+  hobbies: ["swimming", "Cycling", "Playing cricket"],
   skills: [
     "Front-End Development (HTML, CSS, JavaScript)",
     "Experience in React.js",
@@ -19,7 +19,7 @@ const profileData = {
   ],
   education: [
     {
-      school: "Smt. Sulochanadevi Singhania School",
+      school: "holy angels high school",
       year: "2021"
     },
     {
@@ -28,7 +28,7 @@ const profileData = {
     }
   ],
   academics: {
-    tenth: "97%",
+    tenth: "87%",
     twelfth: "86%",
     jee: "94 Percentile"
   },
